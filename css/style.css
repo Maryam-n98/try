@@ -1,0 +1,25 @@
+#form{
+    background-color: rgba(192, 245, 245, 0.473);
+    border: solid ;
+    display: inline-block;
+}
+table{
+    background-color: rgba(163, 206, 206, 0.308);
+    border: solid steelblue 1.1px;
+    color: steelblue;
+    border-collapse: separate;
+}
+table, tr,th{
+    background-color: rgba(163, 206, 206, 0.938);
+    border: solid steelblue 1.1px;
+    color: steelblue;
+    border-collapse:separate;
+
+}
+table, tr,td{
+    background-color: rgba(163, 206, 206, 0.308);
+    border: solid steelblue 1.1px;
+    color: steelblue;
+    border-collapse: collapse;
+
+}
